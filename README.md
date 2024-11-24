@@ -8,7 +8,17 @@ ___
 
 ### Background
 
+The normal workflow to evaluate a vessel's holds is a dynamic and fluid process.  It starts when the vessel is initially hired and her hold conditions are reviewed with her cargo history.  There are two exceptions to the normal workflow, ones for new vessels and vessels leaving drydock.  New vessels, the cargo holds are assumed to be hospital clean with no blemishes whatsoever.  It is possible that the coatings were not applied well, water and or other construction debris infilitrated the holds on her maiden ballast leg, and some other scenarios that could impede this assumption, though highly unliklely.  The other scenario, a vessel leaving drydock, is similar, but deserves separate attention.  The vessel's cargo holds are not always recoated or recoated well.  In some cases, the holds are sandblasted to remove rust and impurities and the sand is not completely or properly removed leaving holds that have not been coated well.  Both of these scenarios fall outside the scope of this model and the process of their evaluation is different.
 
+All other vessels, coming off a previous cargo, have a cargo history.  Each cargo has its own set of characteristics that affect the cleanliness and condition of the holds.  Some can stain (petcoke), leave dust (gypsum), leave hard residues (cement), increase rusting (steel products), and or corrode the coatings and underlying steel (sulphur).  Some leave the holds largely intact and need a good sweeping and rinsing (grains).  Knowing the cargo history is an important step in considering what amount of time, effort, and materials will be needed to prepare the cargo holds for the next cargo.
+
+The crew performance and motivation can also be a determining factor in the holds conditions.  Crews are individual to a vessel and always changing as crew members come and go.  Some are better than others and some are rewarded for their efforts better than others.
+
+The geographical area of where the vessel is unloading her cargo will also impact what cargos are considered next for the vessel.  Some are available within a reasonable distance while others are not.  Cleaning equipment and materials may or may not be readily available to augment those that are on board the vessel.
+
+The vessel operator takes these considerations into account along with the companies overall plan for that vessel and their program.  They might have sent that vessel to a certain area to load another cargo they have already booked for instance.  Others are nearing the end of their hire duration and must be sent in a particular direction for redelivery.  Or they may be allowed or not allowed to carry certain cargoes due to either regulations on the vessel and or restrictions in the charter party.
+
+It is at this moment where the model can assist the vessel operator.  Either before booking the "last cargo" or before booking the "next cargo."  The vessel operator will have pictures of the cargo holds from the last time the vessel was ready to load.  They may have pictures of the holds after it just unloaded depending on where they are in the life cycle of the charter.
 
 ___
 
