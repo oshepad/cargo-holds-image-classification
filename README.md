@@ -31,6 +31,8 @@ The workhorses of this fleet are the handysize, supramax, and ultramax vessels t
 
 This project aims to reduce that uncertainty by creating a model to assess the conditions of the vessels cargo holds, likelohood to meet the standards of the intended cargoes under consideration, necessary cleaning steps, and provide an evaluation metric for the vessel crew's performance.
 
+The model performance will be evaluated on accuracy, precision, recall, and F1 score
+
 ___
 
 
@@ -89,6 +91,7 @@ ___
 
 ### Sources
 
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.standard-club.com/fileadmin/uploads/standardclub/Documents/Import/publications/standard-cargo/23964-15056CargoJan2011Bulletinv06.pdf 
 ___
 
 ### Visualizations
