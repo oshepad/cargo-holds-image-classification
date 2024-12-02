@@ -1,6 +1,9 @@
 # Gmail credentials
 gmail_credentials.yaml
 
+# Assets folders
+saved_models/
+
 # Data folders
 data/
 
