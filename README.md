@@ -35,7 +35,7 @@ For instance, can the vessel get grain clean after petcoke?  How about hospital 
 ![Grain_Clean](assets/presentation/images/2cc35a54-8d60-472a-a74f-984aec8f068b.jpg)
 
 
-### <center>Hospital Clean after paiting</center>
+### <center>Hospital Clean after painting</center>
 ![Hospital Clean](assets/presentation/images/0a9ce194-f3f2-4efe-9621-c0df37e23e77.jpg)
 
 

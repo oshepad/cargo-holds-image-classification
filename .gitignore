@@ -5,7 +5,7 @@ gmail_credentials.yaml
 saved_models/
 
 # Data folders
-data/
+#data/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
