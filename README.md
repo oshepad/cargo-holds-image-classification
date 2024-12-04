@@ -28,15 +28,15 @@ It is at this moment where the model can assist the vessel operator.  Either bef
 For instance, can the vessel get grain clean after petcoke?  How about hospital clean?
 
 ### <center>Petcoke Last after unloading.</center>
-![Petcoke Last](assets/presetnation/images/8bdc8624-89b8-4afc-bf68-4c36c24534ba.jpg)
+![Petcoke Last](assets/presentation/images/8bdc8624-89b8-4afc-bf68-4c36c24534ba.jpg)
 
 
 ### <center>Grain Clean after cleaning</center>
-![Grain_Clean](assets/presetnation/images/2cc35a54-8d60-472a-a74f-984aec8f068b.jpg)
+![Grain_Clean](assets/presentation/images/2cc35a54-8d60-472a-a74f-984aec8f068b.jpg)
 
 
 ### <center>Hospital Clean after paiting</center>
-![Hospital Clean](assets/presetnation/images/0a9ce194-f3f2-4efe-9621-c0df37e23e77.jpg)
+![Hospital Clean](assets/presentation/images/0a9ce194-f3f2-4efe-9621-c0df37e23e77.jpg)
 
 
 ___
