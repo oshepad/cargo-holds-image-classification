@@ -10,6 +10,9 @@ data/
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
 
+# Virtual documents
+.virtual_documents/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
