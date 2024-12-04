@@ -1,5 +1,5 @@
 # <center>Cargo Holds:  Clean or Dirty?</center>
-![Vessel Opening Hatches](../assets/presentation/images/65602150_2325570737490175_748031.jpg)
+![Vessel Opening Hatches](assets/presentation/images/65602150_2325570737490175_748031.jpg)
 
 ___
 ### Problem Statement
@@ -8,7 +8,7 @@ Vessel operators have to decide a vessel's next cargo well ahead of knowing the 
 
 **Can vessel operators use an image classification model to quickly get an answer to improve their confidence in determining the cleanliness of the cargo holds coming from a data driven decision instead of relying on intuition?**
 
-![Wiping Bulkhead](../data/collected/65306521_2307431939304055_3336732312413929472_n.jpg)
+![Wiping Bulkhead](assets/presentation/images/12c943_68ff2f6250c24c1f9a712fa7b8d4b8ff~mv2.jpg)
 ___
 ### Background
 
@@ -28,15 +28,15 @@ It is at this moment where the model can assist the vessel operator.  Either bef
 For instance, can the vessel get grain clean after petcoke?  How about hospital clean?
 
 ### <center>Petcoke Last after unloading.</center>
-![Petcoke Last](../data/collected/8bdc8624-89b8-4afc-bf68-4c36c24534ba.jpg)
+![Petcoke Last](assets/presetnation/images/8bdc8624-89b8-4afc-bf68-4c36c24534ba.jpg)
 
 
 ### <center>Grain Clean after cleaning</center>
-![Grain_Clean](../data/collected/2cc35a54-8d60-472a-a74f-984aec8f068b.jpg)
+![Grain_Clean](assets/presetnation/images/2cc35a54-8d60-472a-a74f-984aec8f068b.jpg)
 
 
 ### <center>Hospital Clean after paiting</center>
-![Hospital Clean](../data/collected/0a9ce194-f3f2-4efe-9621-c0df37e23e77.jpg)
+![Hospital Clean](assets/presetnation/images/0a9ce194-f3f2-4efe-9621-c0df37e23e77.jpg)
 
 
 ___
@@ -99,7 +99,7 @@ dirty = dry sweep, shovel clean, and load on top
 The ongoing project, once the data is accumulated, will convert to a mutliclass project.  
 ___
 ### Project Workflow
-![Project Workflow](../assets/Project_Workflow.jpg)
+![Project Workflow](assets/Project_Workflow.jpg)
 
 ___
 ### Conclusions
@@ -116,13 +116,13 @@ ___
 ##### CNN model training  
 
 
-![CNN Metrics](../assets/CNN_Metrics.jpg)
+![CNN Metrics](assets/CNN_Metrics.jpg)
 
 
 ##### CNN Confusion Matrix  
 
 
-![CNN CM](../assets/CNN_CM.jpg)
+![CNN CM](assets/CNN_CM.jpg)
 
 
 True Negatives = 36 (correctly predicted clean)  
@@ -134,7 +134,7 @@ True Positives = 48 (correctly predicted dirty)
 ##### CNN ROC AUC Curve  
 
 
-![CNN ROC AUC](../assets/CNN_ROC_AUC.jpg)
+![CNN ROC AUC](assets/CNN_ROC_AUC.jpg)
 
 
 The question remains in regard to data selection.  This will play a part in the next steps as this project shifts from a binary classification problem to a multiclass with the acquistion of more data.
